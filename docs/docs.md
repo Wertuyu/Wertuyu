@@ -111,16 +111,20 @@ Y volveremos a pulsar next hasta que se termine la instalación
 Y habremos instalado el servidor web de Icinga
 ![1](./imagenes/30.png)
 
+Iniciamos sesion con el usuario admin
 
 ![1](./imagenes/31.png)
 
-Para monitorizar el otro equipo debermos acceder al siguiente archivo y añadir su ip
+Y habremos entrado en Icinga
 
 ![1](./imagenes/32.png)
 
-Despues de añadir su ip accederemos alsiguiente fichero y añadiremoslos servicios que queremos monitorizar
+Para monitorizar el otro equipo debermos acceder al siguiente archivo y añadir su ip
+
 
 ![1](./imagenes/33.png)
+
+Despues de añadir su ip accederemos alsiguiente fichero y añadiremoslos servicios que queremos monitorizar
 
 ![1](./imagenes/34.png)
 
