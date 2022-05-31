@@ -128,11 +128,15 @@ Despues de añadir su ip accederemos alsiguiente fichero y añadiremoslos servic
 
 ![1](./imagenes/34.png)
 
+Reiniciamos el servicio de icinga
+
 ![1](./imagenes/35.png)
+
+Y se visualizara la maquina que hemos añadido
 
 ![1](./imagenes/36.png)
 
 
 </font>
 
-Enlace a [Documentacion](./docs/docs.md)
+Enlace a [Documentacion](..)
