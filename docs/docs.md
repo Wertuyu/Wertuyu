@@ -122,21 +122,19 @@ Y habremos entrado en Icinga
 Para monitorizar el otro equipo debermos acceder al siguiente archivo y añadir su ip
 
 
-![1](./imagenes/33.png)
+![1](./imagenes/50.png)
 
-Despues de añadir su ip accederemos alsiguiente fichero y añadiremoslos servicios que queremos monitorizar
+Despues de añadir su ip accederemos al siguiente fichero y añadiremoslos servicios que queremos monitorizar
 
-![1](./imagenes/34.png)
+![1](./imagenes/51.png)
 
 Reiniciamos el servicio de icinga
 
-![1](./imagenes/35.png)
+![1](./imagenes/52.png)
 
 Y se visualizara la maquina que hemos añadido
 
-![1](./imagenes/36.png)
+![1](./imagenes/53.png)
 
 
 </font>
-
-Enlace a [Documentacion](..)
