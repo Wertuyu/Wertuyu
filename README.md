@@ -7,5 +7,5 @@
 
 Enlace a [Instalacion de Icinga](./docs/docs.md)
 
-Enlace a [Monitorizacion de un equipo](./docs/monitorizacion.md)
+Enlace a [Monitorizacion de un equipo](./docs/monitorizar.md)
 
