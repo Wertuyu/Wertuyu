@@ -9,3 +9,6 @@ Enlace a [Instalacion de Icinga](./docs/docs.md)
 
 Enlace a [Monitorizacion de un equipo](./docs/monitorizar.md)
 
+Enlace a [Monitorizacion de un servicio de red de un equipo](./docs/monitorizar2.md)
+
+Enlace a [Monitorizacion de una Web](./docs/web.md)
